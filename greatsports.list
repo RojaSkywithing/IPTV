@@ -5,3 +5,5 @@ http://223.111.195.58/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4
 http://iptv.eatuo.com:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="体育频道",上视新闻频道
 http://223.111.195.52/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1984" tvg-name="ABC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="体育频道",ABC
+https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8
